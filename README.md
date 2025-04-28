@@ -70,16 +70,8 @@ Always **Curious** and **Creative** 🧠
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
-      </a>
-    </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.anaconda.com/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=anaconda"/>
-      </a>
-    </td>
+  
+    
   </tr>
 </table>
 
