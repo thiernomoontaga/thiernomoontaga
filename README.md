@@ -73,6 +73,11 @@ Always **Curious** and **Creative** 🧠
         <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>
       </a>
     </td>
+     <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://git-scm.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>
+      </a>
+    </td>
   </tr>
   <tr>
   
