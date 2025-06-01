@@ -1,92 +1,80 @@
 
-<!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Thierno+Segnane👨🏾;🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
-<!-- ILLUSTRATION'S IMAGE -->
-<img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Thierno+Segnane+👨🏾;I'm+passionate+about+programming+💻;I+love+sharing+knowledge+📚;Problem+solver+and+tech+enthusiast+🚀;Open-source+contributor+in+progress+🌐;Coding+is+my+passion+❤️;Always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
-<!-- DESCRIPTION -->
-👨🏾‍💻 **THIERNO SEGNANE**
+<!-- ILLUSTRATION GIF -->
+<img align="right" alt="Coding" width="400" src="https://technostupid.com/frontend/images/95116-coder.gif" />
 
-Computer Science **lover** 🧑🏾‍🎓 
+<!-- ABOUT ME -->
+## 👨🏾‍💻 THIERNO SEGNANE
 
-Passionate about **programming** 💻 
+- 🎓 Computer Science **lover**  
+- 💻 Passionate about **programming**  
+- 📚 Love sharing **knowledge**  
+- 🧩 Enthusiastic **problem solver**  
+- 📖 Lifelong **learner**  
+- ❤️ Coding is my **passion**  
+- 🚀 Tech **enthusiast**  
+- 🎓 Enjoy **teaching** others  
+- 🧠 Always **curious** and **creative**
 
-Love sharing **knowledge** 📚 
+---
 
-Enthusiastic **Problem Solver** 🧩 
+<!-- TECH STACK -->
+## 🛠️ Languages & Tools
 
-Lifelong **Learner** 📖 
-
-
-Coding is my **Passion** ❤️ 
-
-Tech **Enthusiast** 🚀 
-
-Enjoy **Teaching** Others 🎓 
-
-Always **Curious** and **Creative** 🧠
-
-<!-- LANGUAGE & TOOLS -->
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
+<table style="border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
-    <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://github.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+    <td align="center">
+      <a href="https://www.php.net/">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>
-      </a>
-    </td>
-     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/>
       </a>
     </td>
   </tr>
   <tr>
-  
-    
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+      </a>
+    </td>
   </tr>
 </table>
 
-<!-- QUOTE -->
+---
+
+<!-- PERSONAL QUOTE -->
 <p align="right">
-    <q>Yokh leu ! </q> <br> 
-    - <b>THIERNO SEGNANE<b> aka <i>mr-thier</i>
+  <q>Yokh leu !</q><br>
+  — <strong>Thierno Segnane</strong> aka <em>mr-thier</em>
 </p>
