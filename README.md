@@ -47,7 +47,7 @@ I love solving problems, building meaningful projects, and sharing what I learn 
 
 - [LinkedIn](https://www.linkedin.com/in/thierno-segnane/)
 - [Twitter](https://twitter.com/mr_thier)
-- [Portfolio](#) *(à ajouter si tu en as un)*
+- [Portfolio](#) 
 - [Email](mailto:thiernosegnane.dev@gmail.com)
 
 ---
